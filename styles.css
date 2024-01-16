@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(196, 197, 197);
+    border: 2px solid black;
+    border-radius: 5px;
+    text-align: center;
+  }
+
+  h2 {
+    color: blue;
+    font-family: Verdana;
+    font-size: 20px;
+      }
+
+  p {
+    color: red; /* bepaalt de tekst kleur */ 
+    font-family:verdana;
+    font-size: 15px;
+    padding: 15px;  /* afstand van de tekst tot de rand binnen de rand */ 
+    margin: 30px;  /* afstand toegevoegd buiten de rand van het element */ 
+
+  }
+
+  button {
+color: blue;
+margin: 10px;
+border-radius: 5px;
+font-size: 20px;
+padding: 20px;
+
+
+
+
+  }
